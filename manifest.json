@@ -2,10 +2,11 @@
   "id": "com.quicklauncher.github.password",
   "name": "密码生成",
   "description": "生成并复制随机强密码，支持自定义长度",
-  "keyword": "gpwd",
-  "version": "1.1.1",
+  "keyword": "pwd",
+  "version": "1.2.0",
   "author": "QuickLauncher",
   "runtime": "shell",
   "entry": "main.sh",
-  "input": "passwordLength"
+  "input": "passwordLength",
+  "previewOnKeyword": true
 }
